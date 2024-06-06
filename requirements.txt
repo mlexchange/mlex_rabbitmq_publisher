@@ -1,0 +1,5 @@
+pika
+pyyaml
+websockets
+aio_pika
+python-dotenv
